@@ -155,4 +155,4 @@ xxhash==3.8.0
 xyzservices==2026.3.0
 yarl==1.24.2
 zstandard==0.25.0
-tensorflow==2.21.0
+
