@@ -28,7 +28,6 @@ mdurl==0.1.2
 scikit-learn==1.4.2
 scipy==1.11.4
 
-# ⚠️ HEAVY LIBS (kept safe versions)
 torch==2.1.2
 tensorflow==2.15.0
 opencv-python==4.9.0.80
