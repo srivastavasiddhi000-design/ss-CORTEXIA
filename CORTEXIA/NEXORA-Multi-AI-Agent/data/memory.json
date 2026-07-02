@@ -1,0 +1,116 @@
+[
+    {
+        "message": "NEXORA memory online",
+        "time": "2026-06-22 23:48:42.219712"
+    },
+    {
+        "message": "Knowledge: hello NEXORA",
+        "time": "2026-06-23 00:26:49.489403"
+    },
+    {
+        "message": "Research: what is artificial intelligence\n",
+        "time": "2026-06-23 00:27:35.804821"
+    },
+    {
+        "message": "Research: what is artificial intelligence\n",
+        "time": "2026-06-23 00:27:52.127675"
+    },
+    {
+        "message": "Research: Future of quantum computing in healthcare\n\n",
+        "time": "2026-06-23 00:28:07.715431"
+    },
+    {
+        "message": "Research: Compare React vs Angular for modern development\n\n\n",
+        "time": "2026-06-23 00:28:30.215409"
+    },
+    {
+        "message": "Knowledge: \n\nYou are analyzing a document.\n\nDocument Context:\n\n\n\n\nUser Question:\n\nSummarize this document\n\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion\n\n",
+        "time": "2026-06-23 00:29:31.657542"
+    },
+    {
+        "message": "Knowledge: \n\nYou are analyzing a document.\n\nDocument Context:\n\nRAG Test Document\nThis is a sample PDF for testing a Retrieval Augmented Generation project.\nArtificial Intelligence:\nAI is a field of computer science that focuses on creating systems that can perform tasks that\nnormally require human intelligence.\nMachine Learning:\nMachine learning allows computers to learn patterns from data and make predictions without being\nexplicitly programmed.\nDeep Learning:\nDeep learning uses neural networks with multiple layers to process complex information such as\nimages, text, and audio.\nThis document can be uploaded into a RAG chatbot to test PDF loading, chunking, embeddings,\nand retrieval.\n\n\n\nUser Question:\n\nSummarize this document\n\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion\n\n",
+        "time": "2026-06-23 00:30:08.981889"
+    },
+    {
+        "message": "Knowledge: \n\nYou are analyzing a document.\n\nDocument Context:\n\nRAG Test Document\nThis is a sample PDF for testing a Retrieval Augmented Generation project.\nArtificial Intelligence:\nAI is a field of computer science that focuses on creating systems that can perform tasks that\nnormally require human intelligence.\nMachine Learning:\nMachine learning allows computers to learn patterns from data and make predictions without being\nexplicitly programmed.\nDeep Learning:\nDeep learning uses neural networks with multiple layers to process complex information such as\nimages, text, and audio.\nThis document can be uploaded into a RAG chatbot to test PDF loading, chunking, embeddings,\nand retrieval.\n\n\n\nUser Question:\n\nExplain the main concepts in this PDF\n\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion\n\n",
+        "time": "2026-06-23 00:30:29.177972"
+    },
+    {
+        "message": "Knowledge: \n\nYou are analyzing a document.\n\nDocument Context:\n\n\n\n\nUser Question:\n\nExplain machine learning like I am beginner\n\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion\n\n",
+        "time": "2026-06-23 00:30:54.608628"
+    },
+    {
+        "message": "Knowledge: \n\nYou are analyzing a document.\n\nDocument Context:\n\n\n\n\nUser Question:\n\nExplain machine learning like I am beginner\n\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion\n\n",
+        "time": "2026-06-23 00:30:55.331125"
+    },
+    {
+        "message": "Planner: \n\nYou are NEXORA Planning Intelligence Agent.\n\nGoal:\nBecome a full stack developer in 6 months\n\n\n\nPlanning Mode:\nProject Roadmap\n\n\nCreate a practical execution blueprint:\n\n1. Objective\n2. Strategy\n3. Step-by-step tasks\n4. Timeline\n5. Resources required\n6. Success metrics\n\n\nMake it realistic and actionable.\n\n",
+        "time": "2026-06-23 00:31:38.202322"
+    },
+    {
+        "message": "Code: code: explain python decorators",
+        "time": "2026-06-23 00:32:49.184858"
+    },
+    {
+        "message": "Research: My goal is to become an AI engineer",
+        "time": "2026-06-23 00:55:19.447316"
+    },
+    {
+        "message": "Research: What was my previous goal?",
+        "time": "2026-06-23 00:55:33.454334"
+    },
+    {
+        "message": "Research: What is my current goa?",
+        "time": "2026-06-23 00:56:12.334071"
+    },
+    {
+        "message": "Research: Explain the future of Artificial Intelligence in 2030",
+        "time": "2026-06-23 00:56:49.999209"
+    },
+    {
+        "message": "Research: Compare Generative AI vs Traditional AI",
+        "time": "2026-06-23 00:57:04.583571"
+    },
+    {
+        "message": "Knowledge: \n\nYou are analyzing a document.\n\nDocument Context:\n\n\n\n\nUser Question:\n\nExplain neural networks like I am a beginner\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion",
+        "time": "2026-06-23 00:57:28.629811"
+    },
+    {
+        "message": "Planner: \n\nYou are NEXORA Planning Intelligence Agent.\n\nGoal:\nI want to learn DSA and Web Development in 8 months\n\n\nPlanning Mode:\nDaily Plan\n\n\nCreate a practical execution blueprint:\n\n1. Objective\n2. Strategy\n3. Step-by-step tasks\n4. Timeline\n5. Resources required\n6. Success metrics\n\n\nMake it realistic and actionable.",
+        "time": "2026-06-23 00:58:03.120013"
+    },
+    {
+        "message": "Knowledge: Remember that I am preparing for software engineering.\nNow create my roadmap.",
+        "time": "2026-06-23 00:58:33.203393"
+    },
+    {
+        "agent": "Research",
+        "message": "Explain the future of AI",
+        "time": "2026-06-23 01:08:45.855951"
+    },
+    {
+        "agent": "Knowledge",
+        "message": "You are analyzing a document.\n\nDocument Context:\n\n\n\n\nUser Question:\n\nExplain neural networks\n\nGive:\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion",
+        "time": "2026-06-23 01:09:03.013361"
+    },
+    {
+        "agent": "Planner",
+        "message": "You are NEXORA Planning Intelligence Agent.\n\nGoal:\nMake a roadmap for learning Python in 3 months\n\n\nPlanning Mode:\nDaily Plan\n\n\nCreate a practical execution blueprint:\n\n1. Objective\n2. Strategy\n3. Step-by-step tasks\n4. Timeline\n5. Resources required\n6. Success metrics\n\n\nMake it realistic and actionable.",
+        "time": "2026-06-23 01:09:25.710457"
+    },
+    {
+        "agent": "Knowledge",
+        "message": "You are analyzing a PDF document.\n\nRelevant Context:\n\nRAG Test Document\nThis is a sample PDF for testing a Retrieval Augmented Generation project.\nArtificial Intelligence:\nAI is a field of computer science that focuses on creating systems that can perform tasks that\nnormally require human intelligence.\nMachine Learning:\nMachine learning allows computers to learn patterns from data and make predictions without being\nexplicitly programmed.\nDeep Learning:\nDeep learning uses neural networks with multiple layers to process complex information such as\nimages, text, and audio.\nThis document can be uploaded into a RAG chatbot to test PDF loading, chunking, embeddings,\nand retrieval.\n\n\n\nQuestion:\n\nWhat are the important concepts in this document?\n\n\n\nGive:\n\n1. Summary\n2. Important Points\n3. Explanation\n4. Conclusion",
+        "time": "2026-06-23 01:35:17.349051"
+    },
+    {
+        "agent": "Planner",
+        "message": "Goal:\nBecome AI engineer in 1 year\n\nPlanning Mode:\nDaily Plan\n\nCreate:\n\n1. Objective\n2. Strategy\n3. Tasks\n4. Timeline\n5. Success Metrics",
+        "time": "2026-06-23 01:37:15.612648"
+    },
+    {
+        "agent": "Code",
+        "message": "Mode:\nDebug Code\n\n\nUser Query:\n\ndebug this:\n\nx = 10\nprint(y)\n\n\nProvide:\n\n1. Explanation\n2. Issues Found\n3. Solution\n4. Best Practices",
+        "time": "2026-06-23 01:39:04.004411"
+    }
+]
