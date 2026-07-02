@@ -2,7 +2,10 @@ import streamlit as st
 import sys
 import os
 
+# FIX: root ko clearly point karo
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+
 from backend.database import create_table, get_dossier
 from components.nexora_widget import show_nexora
 from components.medica_compendium import show_medica_compendium
