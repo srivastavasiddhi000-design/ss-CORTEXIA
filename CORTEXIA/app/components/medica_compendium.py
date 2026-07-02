@@ -15,7 +15,7 @@ sys.path.append(
 )
 
 
-from nexora_agents import medical_specialist_agent
+from nexora_multi_ai_agent.nexora.agents.medical_specialist import medical_specialist_agent
 from app.components.medica_data import MEDICA_MODULES
 
 
