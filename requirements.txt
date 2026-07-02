@@ -15,6 +15,7 @@ folium==0.17.0
 streamlit-folium==0.22.1
 streamlit-geolocation==0.0.10
 streamlit-js-eval==1.0.0
+streamlit-mic-recorder==0.0.8
 
 beautifulsoup4==4.12.3
 lxml==5.3.0
